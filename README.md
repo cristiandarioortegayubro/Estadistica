@@ -257,13 +257,6 @@ Estadistica/
 4. **Aplicar a datos propios** de su organización o proyecto
 5. **Consultar las guías rápidas** para referencia
 
-### Para Instructores
-1. **Seguir la secuencia** de las 4 unidades
-2. **Adaptar los ejercicios** a su industria específica
-3. **Ampliar con casos de estudio** adicionales
-4. **Usar las visualizaciones** como material de clase
-5. **Asignar ejercicios** de los notebooks prácticos como tarea
-
 ### Para Profesionales
 1. **Revisar conceptos específicos** según necesidad
 2. **Usar como referencia** de scipy.stats
@@ -309,10 +302,6 @@ ANOVA:          F = MSB/MSW
 ---
 
 ## 📚 Recursos Adicionales
-
-### Guías de Referencia
-* **[GUIA_RAPIDA_UNIDADES_III_IV.md](GUIA_RAPIDA_UNIDADES_III_IV.md)**: Fórmulas, conceptos y procedimientos
-* **[RESUMEN_FINAL.md](RESUMEN_FINAL.md)**: Estado completo del material y estadísticas
 
 ### Temas Cubiertos
 * ✅ Probabilidad clásica, frecuencial y subjetiva
@@ -467,41 +456,9 @@ Este material está diseñado para ser extensible y adaptable:
 * Los **comentarios** explican cada paso
 * Se usan **convenciones estándar** de Python y estadística
 
-### Sobre la Pedagogía
-* **Aprender haciendo**: los notebooks son interactivos
-* **Verificación empírica**: simular para comprender
-* **Contexto empresarial**: todos los ejemplos son de negocios
-* **Progresión natural**: de fundamentos a aplicaciones
 
 ---
 
-## 📞 Información del Curso
-
-**Curso**: Estadística para el Análisis de Negocios  
-**Nivel**: Universitario / Postgrado  
-**Modalidad**: Presencial / Virtual  
-**Duración**: 40-60 horas  
-**Institución**: Universidad del Atlántico  
-**Año**: 2026
-
----
-
-## ✅ Estado del Proyecto
-
-**Versión**: 1.0  
-**Última actualización**: Agosto 2026  
-**Estado**: ✅ **COMPLETO Y LISTO PARA ENSEÑAR**
-
-### Changelog
-* **v1.0** (Agosto 2026): Material completo con las 4 unidades, teoría y práctica
-  * 8 notebooks con contenido detallado
-  * 42 secciones teóricas
-  * 30+ ejercicios prácticos enfocados en negocios
-  * 50+ visualizaciones
-  * Guías de referencia rápida
-  * README completo
-
----
 
 ## 📄 Licencia
 
